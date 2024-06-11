@@ -74,3 +74,4 @@ int main() {
     return 0;
 }
 
+![Screenshot 2024-06-11 121849](https://github.com/Joyce-0411/OPERATING-SYSTEM/assets/120043101/205fe3cc-8377-47b3-a21e-ec6f3db76ba8)
