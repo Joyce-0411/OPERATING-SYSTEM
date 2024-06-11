@@ -16,3 +16,5 @@ plt.ylabel('Prediction',fontsize=13)
 plt.xlabel('Actual',fontsize=13)
 plt.title('Confusion Matrix',fontsize=17)
 plt.show()
+
+![Screenshot 2024-06-11 121151](https://github.com/Joyce-0411/OPERATING-SYSTEM/assets/120043101/daaca2c8-2628-43f9-9fef-733e66d74b3d)
