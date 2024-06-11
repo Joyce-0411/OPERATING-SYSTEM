@@ -51,5 +51,6 @@ int main() {
     firstFit(partitions, NUM_PARTITIONS, processes, NUM_PROCESSES);
 
     return 0;
-}
+}![Screenshot 2024-06-11 121151](https://github.com/Joyce-0411/OPERATING-SYSTEM/assets/120043101/daaca2c8-2628-43f9-9fef-733e66d74b3d)
+
 
